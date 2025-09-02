@@ -1,7 +1,7 @@
 
 # tropicalia
 
-![4965007 (3)](https://github.com/user-attachments/assets/e4bb9c98-8958-49e1-9616-d88df3d3f1f9)
+<img width="521" height="480" alt="lossy-page1-640px-Os_Mutantes tif (1)" src="https://github.com/user-attachments/assets/ad67e546-09bd-4d42-8cd4-30ed09d90af1" />
 
 <section id="tropicalia" class="my-5 pt-6 secao-tropicalia">
         <div class="container d-flex align-items-center ">
