@@ -1,4 +1,8 @@
+
 # tropicalia
+
+![4965007 (3)](https://github.com/user-attachments/assets/e4bb9c98-8958-49e1-9616-d88df3d3f1f9)
+
 <section id="tropicalia" class="my-5 pt-6 secao-tropicalia">
         <div class="container d-flex align-items-center ">
                 <div class="col-5">
@@ -11,3 +15,4 @@
                 </div>
         </div>
 </section>
+
